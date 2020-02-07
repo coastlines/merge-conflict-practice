@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 700px;
+}
+
+.square-1 {
+  background-color: peru;
+  width: 200px;
+  height: 200px;
+}
+
+.square-2 {
+  background-color: plum;
+  width: 200px;
+  height: 200px;
+}
+
+.square-3 {
+  background-color: palegreen;
+  width: 200px;
+  height: 200px;
+}
